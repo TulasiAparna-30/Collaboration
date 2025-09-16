@@ -1,5 +1,7 @@
 <html>
 <body>
+<title> Collaboration </title>
 <h1> Hello Bsc Students</h1>
+<p> Welcome to Hackathon Classes</p>
 </body>
 </html>
